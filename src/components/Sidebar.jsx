@@ -2,7 +2,7 @@ import { ChevronDown, ChevronUp } from 'lucide-react';
 
 export default function Sidebar() {
     return (
-        <aside className="hidden lg:flex w-[340px] flex-shrink-0 flex-col gap-6">
+        <aside className="hidden lg:flex w-[280px] flex-shrink-0 flex-col gap-6">
             {/* Profile Card */}
             <div className="bg-white rounded-xl shadow-sm border border-gray-100 overflow-hidden">
                 {/* Banner */}
